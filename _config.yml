@@ -1,0 +1,14 @@
+layout_spectrum: 0.7058831008616835
+typography_spectrum: 0.8765764911659062
+color:
+  brandStrength: 0.781140563543886
+  lightness: 0.9777296581305563
+  saturation: 0.5455876763444394
+  rhythmicContrast: 0.040375211741775274
+  brandColors:
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+name: Days between rains
